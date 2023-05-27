@@ -7,3 +7,9 @@ Sniffer for 433 MHz based on ESP boards (ESP8266, ESP32, etc. ). With a large nu
 |        Intercept           |          Data interception via 433MHz receiver                             |    More    |
 |        Repeat              |          Playback of custom or intercepted data via 433MHz transmitter     |    More    |
 |        Brute-Force         |          Brute force attack on 433MHz frequency combination                |    More    |
+
+
+## How to:
+![Pins for connection](https://github.com/Naster17/433MHz-Sniffer/blob/etc/ReciverAndTransmitter.png)
+
+![ESP8266](https://github.com/Naster17/433MHz-Sniffer/blob/etc/ESP8266.jpg)
